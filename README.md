@@ -1,15 +1,4 @@
-# School of Continuing Studies, University of Toronto
-
-# 3547 TERM PROJECT
-# Intelligent Systems and Reinforcement Learning
-
 ### Title: Robot obstacle avoidance with reinforcement learning
-
-#### Group Members:
-    1. Alexandre Dietrich
-    2. Ankur Tyagi
-    3. Haitham Alamri
-    4. Rodolfo Vasconcelos
 
 
 Date: August, 4 2020
