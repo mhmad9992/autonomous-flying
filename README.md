@@ -1000,7 +1000,7 @@ Possible extensions of the work include :
 
 <a id='Appendix_A'></a>
 
-# Appendix B - Instructions to Run the Code
+# Appendix  - Instructions to Run the Code
 
 The instructions were written you are running Windows 10, WSL and bash. The commands may be different for other OS and terminal tool.
 Before you start:
@@ -1016,8 +1016,7 @@ Before you start:
 
 How to run the code:
 1. Clone the GitHub repository
-    1. git clone git@github.com:ravasconcelos/rl_obstacle_avoidance.git
-    1. cd rl_obstacle_avoidance
+   1. cd rl_obstacle_avoidance
 1. Bayesian:
     1. cd bayesian
     1. to play using the UI:
