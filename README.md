@@ -1001,23 +1001,7 @@ Possible extensions of the work include :
 </div> 
 
 <a id='Appendix_A'></a>
-# Appendix A - Code and Documentation
 
-All the code prepared for this project is available on Github. Here is the link for the project. 
-
-https://github.com/ravasconcelos/rl_obstacle_avoidance
-
-Description:
-
-In the root you can find the code to run the algorithms. 
-
-Folders: 
-1. notebook - this report and presentation
-2. bayseian - Original Bayseian code transformed to Python 3 and prepared to run in a bacyh mode
-3. static_policy - Code with implements the Static Policy algorithm
-4. dynamic_policy - Code with implements the Dynamic Policy algorithm
-
-<a id='Appendix_B'></a>
 # Appendix B - Instructions to Run the Code
 
 The instructions were written you are running Windows 10, WSL and bash. The commands may be different for other OS and terminal tool.
