@@ -1,8 +1,6 @@
 ### Title: Robot obstacle avoidance with reinforcement learning
 
 
-Date: August, 4 2020
-
 
 
 # Table of Contents
