@@ -22,10 +22,6 @@
 * [Appendix B - Instructions to Run the Code](#Appendix_B)
 * [Appendix C - Video](#Appendix_C)
 
-<a id='Introduction'></a>
-# Introduction
-
-After ten weeks of learning additional Artificial Intelligence techniques, which cover more traditional branches of AI, such as research, planning, knowledge, logic and reinforcement learning, we had the opportunity to put what we learned into practice. After interesting brainstorming and group discussions, we decided to go ahead with a project using reinforcement learning. We found a challenging project and the right size to carry out a solution in a reasonable time and resources. We then put our efforts into defining the problem, defining workarounds, coding and testing our algorithms, evaluating the results and preparing for the conclusion. Here's what we did.
 
 <a id='Problem'></a>
 # Problem
